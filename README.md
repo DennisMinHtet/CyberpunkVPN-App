@@ -1,4 +1,4 @@
-# CyberVPN Android Application
+# CyberpunkVPN Android Application
 
 This project provides a foundational Android VPN application with a Cyberpunk aesthetic, built with Kotlin and Jetpack Compose. It integrates WireGuard for VPN functionality, Firebase Remote Config for dynamic server updates, and OneSignal for push notifications.
 
