@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>vpn_servers</key>
+        <value>[
+            {"id": "1", "country": "USA", "city": "New York", "ping": 25, "load": 35, "wireguardConfig": "[Interface]\nPrivateKey=YOUR_PRIVATE_KEY_NY\nAddress=10.0.0.2/24\nDNS=8.8.8.8\n\n[Peer]\nPublicKey=YOUR_PUBLIC_KEY_NY\nEndpoint=ny.vpnserver.com:51820\nAllowedIPs=0.0.0.0/0, ::/0"},
+            {"id": "2", "country": "Germany", "city": "Frankfurt", "ping": 40, "load": 50, "wireguardConfig": "[Interface]\nPrivateKey=YOUR_PRIVATE_KEY_FR\nAddress=10.0.0.3/24\nDNS=8.8.8.8\n\n[Peer]\nPublicKey=YOUR_PUBLIC_KEY_FR\nEndpoint=fr.vpnserver.com:51820\nAllowedIPs=0.0.0.0/0, ::/0"}
+        ]</value>
+    </entry>
+</defaultsMap>

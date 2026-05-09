@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CyberVPN</string>
+    <string name="hello_android">Hello from VPN App!</string>
+    <string name="initiate_link">Initiate Link</string>
+    <string name="select_server">Select Server</string>
+    <string name="connected_status">Connected</string>
+    <string name="disconnected_status">Disconnected</string>
+</resources>

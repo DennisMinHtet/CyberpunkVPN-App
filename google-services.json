@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618540064070",
+    "project_id": "cyberpunk-vpn",
+    "storage_bucket": "cyberpunk-vpn.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618540064070:android:d9ca39e3d241aa9d61d947",
+        "android_client_info": {
+          "package_name": "com.cyberpunk.vpn_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoU2-q1G4jqa8qd0xXKsfuyG4awLTlvtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
